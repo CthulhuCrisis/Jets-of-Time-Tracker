@@ -343,7 +343,7 @@
     "name": "Character Locks",
     "type": "progressive",
     "allow_disabled": false,
-    "initial_stage_idx": 1,
+    "initial_stage_idx": 0,
     "loop": true,
     "stages": [
       {
