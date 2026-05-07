@@ -347,12 +347,12 @@
     "loop": true,
     "stages": [
       {
-        "img": "images/Flag_CharLock_on.png",
-        "codes": "Flag_CharLock_on,"
-      },
-      {
         "img": "images/Flag_CharLock_off.png",
         "codes": "Flag_CharLock_off"
+      },
+      {
+        "img": "images/Flag_CharLock_on.png",
+        "codes": "Flag_CharLock_on,"
       }
     ]
   },
